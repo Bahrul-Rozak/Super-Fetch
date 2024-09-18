@@ -1,0 +1,33 @@
+{
+  "name": "super-fetch",
+  "version": "1.0.0",
+  "description": "super fetch powerfulll library for fetching data, with exponential backoff, caching response, concurrency management and many more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode developer --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahrul-Rozak/Super-Fetch.git"
+  },
+  "keywords": [
+    "super",
+    "fetch",
+    "data"
+  ],
+  "author": "Bahrul Rozak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahrul-Rozak/Super-Fetch/issues"
+  },
+  "homepage": "https://github.com/Bahrul-Rozak/Super-Fetch#readme"
+}
